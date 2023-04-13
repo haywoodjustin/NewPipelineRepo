@@ -9,5 +9,6 @@ int main()
     std::cout << "Hello World!!!\n";
     CoolClass coolClass;
     std::cout << "Calc " << coolClass.Calc(1, 2);
+    this will cause a compile error 
 }
 
